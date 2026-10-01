@@ -1,0 +1,4 @@
+discord.py
+python-dotenv
+dataset==0.5.0
+apscheduler==3.10.3
